@@ -1,0 +1,45 @@
+Merge Sort: Divide en dos el arreglo hasta tener tuplas con 2 elementos.
+	-Mejor Caso: Cuando el arreglo viene ordenado de forma descendente(Demorara en cambiar de posicion)
+	-Caso Promedio: Numeros aleatorios
+	-Peor Caso: Cuando el arreglo viene ordenado de forma ascendente
+
+Shell Sort: (Es dificil encontrar la complejidad del shell sort)varian tiene mejor caso,etc
+	-Mejor Caso: Cuando el arreglo viene ordenado en forma ascendente(no se intercambia)
+	-Caso Promedio:(Posible->)Cuando el arreglo viene ordenado de forma descendente
+	.peor Caso:(Cuando se tienen elementos desordenados al azar)
+
+
+Radix Sort: 
+	-Mejor Caso: Cuando se tienen numeros con digitos pequeños
+	-Caso promedio: Cuando se tiene numeros al azar.
+	-Peor Caso: Cuando se tiene numeros con digitos  grandes
+
+Bubble Sort:
+	-Mejor Caso:Cuando los numeros ya estan ordenados
+	-Caso Promedio: Cuando los numeros estan al azar
+	-Peor Caso: Cuando los numeros ya estan ordenados de forma descendente
+
+Heap Sort:
+	-Mejor Caso:Cuando el arreglo esta en forma descendente
+	-Caso Promedio:Cuanndo el arreglo esta de forma aleatoria
+	-Peor Caso:Cuando el arreglo esta en forma ascendente
+
+Quick Sort:(Tiene limite de recursion en python acepta 990 elementos)
+	-Mejor Caso:Cuando el arreglo esta en forma aleatoria
+	-Caso Promedio:Cuando el arreglo esta en forma descendente
+	-Peor Caso:Cuando el arreglo esta en forma ascendente
+ 
+Bucket Sort: para todos es igual  XXXXXXXXXXXXXXXXXXXXXXX Varia
+	-Mejor Caso:Cuando estan en forma descendenteXXXXXXXXXXXXX ascendente
+	-Caso Promedio:Cuando el arreglo esta forma XXXXXXXXXXXXXXX aleatoria
+	-Peor Caso: Cuand el arregloe s aleatorioXXXXXXXXXXXXXXXX descendente
+
+Selection Sort:(el tiempo de ejecucion no es buena para numeros aleatorios)
+	-Mejor Caso:
+	-Caso Promedio:
+	-Peor Caso:
+
+Comb Sort:(el tiempo de ejecucion no es buena para numeros aleatorios)
+	-mejor Caso:
+	-Caso Promedio:
+	-Peor Caso:
